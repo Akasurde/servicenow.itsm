@@ -6,4 +6,5 @@ pytest-xdist
 # We should avoid these two modules with py3
 pytest-mock
 pytest-forked
+pytest-ansible ; python_version >= '3.7'
 mock
